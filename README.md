@@ -1,5 +1,6 @@
 # EBAC
 Projetos propostos pelo curso Cientista de Dados da EBAC
+
 Para a contabilidade, a informação constitui a matéria prima de um sistema antigo, cujos
 primeiros registros situam-se há mais de 3700, em Uruk, cidade da antiga Mesopotâmia.
 Motivado por uma grande necessidade de controle dos meios de produção, este sistema
